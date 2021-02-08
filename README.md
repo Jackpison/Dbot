@@ -1,4 +1,4 @@
-Just Doing what Original Should've done long ago.
+Just Doing what Original Dev Should've done long ago.
 
 DBOT Setup Guide
 
