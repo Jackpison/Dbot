@@ -12,8 +12,6 @@ Update
 - if you are having price update problem again disable all kinds of ad blocker or better remove it. Even if you use ublock origin disable or better remove it
 
 
-Note - Youtube instruction video will take time. Instructions are very simple. Just try it and dont wait for installation video. It will be coming but am saying just try with read me! Ive simplified instructions.
-
 Instructions -
 install node js from https://nodejs.org/en/download/
 
