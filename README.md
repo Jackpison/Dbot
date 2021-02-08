@@ -43,5 +43,3 @@ Without quotes
 - npm start - this will launch dbot web application on browser localhost:3000 
 - start using bot features from UI
 
-
-One more thing I know you all invested in dbot and deserve every right for updates on the bot and overall the project. But if you keep pinging me every 5 seconds and asking when will it be out when this when that. It won't fasten up the process. Remember that we are not on telegram 24/7 and we have other work not just telegram
