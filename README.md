@@ -2,7 +2,6 @@ Just Doing what Original Should've done long ago.
 
 DBOT Setup Guide
 
-[In reply to Buddha | @dbotdefi]
 Update
 - 1000 dbot token holding implemented 
 - price update fixed 
